@@ -11,7 +11,7 @@ html5lib==0.999999999
 idna==2.8
 jmespath==0.9.4
 olefile==0.46
-Pillow==4.3.0
+Pillow==10.3.0
 pycurl==7.19.5.3
 pytz==2017.3
 requests==2.21.0
